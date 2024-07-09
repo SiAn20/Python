@@ -1,2 +1,2 @@
-# Ejercicios-C-
-Se realizaran ejercicios de C++ de AtCoder, codeforce e ICPC
+# Ejercicios de Programación
+Se realizaran ejercicios programación de varios lenguajes de plataformas como AtCoder, codeforce, ICPC u otros.
